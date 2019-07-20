@@ -1,0 +1,15 @@
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll.config
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.ADODataAccessLayer.pdb
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.csproj.CopyComplete
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.dll
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\CareerCloud.ADODataAccessLayer.pdb
