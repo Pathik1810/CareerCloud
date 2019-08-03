@@ -9,8 +9,6 @@ C:\Users\Pathik\Desktop\TestCase-2\CareerCloud.UnitTests.Assignment2\bin\Debug\N
 C:\Users\Pathik\Desktop\TestCase-2\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Pathik\Desktop\TestCase-2\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Pathik\Desktop\TestCase-2\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CopyComplete
-C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
-C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -30,6 +28,8 @@ C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\CareerCloud.Pocos.pdb
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
+C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CopyComplete
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.dll
 C:\Users\Pathik\Desktop\CareerCloud\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.pdb
