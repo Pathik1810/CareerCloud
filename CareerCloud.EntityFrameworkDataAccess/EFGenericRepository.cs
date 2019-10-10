@@ -14,9 +14,9 @@ namespace CareerCloud.EntityFrameworkDataAccess
     {
         private CareerCloudContext _context;
 
-        public EFGenericRepository()
+        public EFGenericRepository(bool createProxy = false)
         {
-            _context = new CareerCloudContext();
+            _context = new CareerCloudContext(createProxy);
         }
        public void Add(params T[] items)
         {
@@ -75,6 +75,10 @@ namespace CareerCloud.EntityFrameworkDataAccess
             {
                 dbQuery = dbQuery.Include<T, object>(property);
             }
+
+            //Another Way
+            //return dbQuery.FirstOrDefault(where);
+
             return dbQuery.Where(where).FirstOrDefault();
         }
     }

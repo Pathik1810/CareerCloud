@@ -39,9 +39,9 @@ namespace CareerCloud.BusinessLogicLayer
                 throw new AggregateException(exceptions);
             }
         }
-        public SystemLanguageCodePoco Get(String _Name)
+        public SystemLanguageCodePoco Get(String Id)
         {
-            return _repository.GetSingle(c => c.Name == _Name);
+            return _repository.GetSingle(c => c.LanguageID == Id);
         }
         public List<SystemLanguageCodePoco> GetAll()
         {
